@@ -1,0 +1,6 @@
+DATA;DCP;DCFP;CP;CFP;/;Sigla;Significado                     ;Medida   ;Exemplo
+;;;;; ;DATA ;Data                            ;[Mes/Ano];jan/14
+;;;;; ;DCP  ;Demanda Contratada na Ponta     ;[MW]     ;35.00
+;;;;; ;DCFP ;Demanda Contratada Fora da Ponta;[MW]     ;35.00
+;;;;; ;CP   ;Consumo na Ponta                ;[MWh]    ;16.90
+;;;;; ;CFP  ;Consumo Fora da Ponta           ;[MWh]    ;21.40
